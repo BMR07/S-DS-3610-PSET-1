@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c17f80c0-c9e1-4551-93c0-1cd59c364948
+      url: https://bmr07.quarto.pub/sds-3610-pset-1

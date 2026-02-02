@@ -10,4 +10,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Below is the 30x30 grid plot of the 2022 NBA schedule, faceted by division to reveal the league's scheduling structure.
 
-![NBA Schedule Faceted Grid](nba_schedule_faceted_grid.png)
+![NBA Schedule](nba_schedule_clear.png)
